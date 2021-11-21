@@ -1,0 +1,5 @@
+DEUCENG;12345;Admin;Ali;Veli;5070957974
+kek;börek;Customer;Hasan;Hüseyin;5070957575;İzmir;Türkiye
+BahçeKapısı;3131;Customer;Halil;Akpınar;21321;wdqdwq;dwqdqw
+katairlines;123;Customer;Furkan;Bektaş;313131;Istanbul;Türkiye
+batyouone;Batyouone28;Customer;Batuhan;Keskin;5442026811;İzmir;Türkiye
